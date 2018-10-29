@@ -21,6 +21,7 @@ img {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  align-items: center;
   padding: 1.5rem 0;
   background-color: #8bc9d9;
   border-top: 3px solid #005e76;
@@ -30,8 +31,8 @@ img {
 .footer h2 {
   margin-top: 0;
   margin-bottom: 1.5rem;
-
 }
+
 .footer ul {
   margin-top: 0;
   margin-bottom: 1.5rem;
@@ -48,6 +49,7 @@ img {
 }
 
 .social {
+  margin-left: auto;
   padding: 0 1rem;
   display: flex;
 }
